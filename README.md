@@ -42,3 +42,6 @@ Create abstract patterns for fun or use the turtle module to learn basic program
 Customize the design by adjusting the angles, sizes, and movements for a unique output.
 Author
 Pratyanshu Devang
+
+
+![image](https://github.com/user-attachments/assets/e80e0e46-b6a3-4012-8788-95a1bef6973b)
